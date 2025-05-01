@@ -1,0 +1,85 @@
+<signos>
+  <signo>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>20/04</dataFim>
+    <signoNome>Áries</signoNome>
+    <descricao>Signo de fogo representado por um carneiro. Características: liderança, coragem, pioneirismo, autoconfiança e impulsividade. Desafio: controlar o temperamento explosivo.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>21/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <signoNome>Touro</signoNome>
+    <descricao>Signo de terra simbolizado pelo touro. Características: lealdade, proteção, determinação e amor pelos prazeres materiais. Desafio: superar teimosia e preguiça.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <signoNome>Gêmeos</signoNome>
+    <descricao>Signo de ar representado pelo numeral II. Características: comunicação, sociabilidade, curiosidade e adaptabilidade. Desafio: evitar superficialidade e ansiedade.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>22/07</dataFim>
+    <signoNome>Câncer</signoNome>
+    <descricao>Signo de água simbolizado pelo caranguejo. Características: sensibilidade, conexão familiar e proteção emocional. Desafio: não alimentar mágoas.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>23/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <signoNome>Leão</signoNome>
+    <descricao>Signo de fogo representado pelo leão. Características: criatividade, carisma, generosidade e autoconfiança. Desafio: evitar egocentrismo.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <signoNome>Virgem</signoNome>
+    <descricao>Signo de terra simbolizado pela letra M. Características: organização, perfeccionismo, praticidade e altruísmo. Desafio: controlar hipercriticismo.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <signoNome>Libra</signoNome>
+    <descricao>Signo de ar representado pela balança. Características: diplomacia, busca por harmonia e senso de justiça. Desafio: aprender a dizer não.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <signoNome>Escorpião</signoNome>
+    <descricao>Signo de água simbolizado pelo escorpião. Características: intensidade emocional, carisma e capacidade de transformação. Desafio: interesse em temas misteriosos.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12</dataFim>
+    <signoNome>Sagitário</signoNome>
+    <descricao>Signo de fogo representado por uma flecha. Características: aventura, liberdade, sabedoria e espontaneidade. Desafio: controlar impulsividade.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>20/01</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <descricao>Signo de terra simbolizado pela cabra marinha. Características: ambição, responsabilidade e busca por estabilidade. Desafio: evitar isolamento.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>21/01</dataInicio>
+    <dataFim>18/02</dataFim>
+    <signoNome>Aquário</signoNome>
+    <descricao>Signo de ar representado por ondas. Características: originalidade, inovação e sociabilidade. Desafio: lidar com tendência rebelde.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>19/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <signoNome>Peixes</signoNome>
+    <descricao>Signo de água simbolizado por dois peixes. Características: sensibilidade, intuição artística e espiritualidade. Desafio: conexão com sonhos e emoções.</descricao>
+  </signo>
+</signos>
